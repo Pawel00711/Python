@@ -1,0 +1,5 @@
+Summary Report
+====================
+Total Students Processed: 15
+Highest Average Score: Levi - 74.8
+Lowest Average Score: Arlo - 28.4
